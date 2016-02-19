@@ -2,7 +2,7 @@
   "name": "npm-babel-eslint-jasmine-boilerplate",
   "version": "1.0.0",
   "description": "A blank NPM module project using Babel for transpilation, ESLint for linting, and Jasmine for specs.",
-  "main": "dist/promise-poller.js",
+  "main": "dist/lib/my-library.js",
   "scripts": {
     "compile": "babel -d dist src",
     "clean": "rm -rf dist",
